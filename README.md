@@ -2,7 +2,7 @@
 
 A lightweight, frictionless real-time polling web app. Create a poll in seconds, share a link, and watch votes come in live.
 
-**[Live Demo →](#)** *(add URL after deployment)*
+**[Live Demo →](https://real-time-poll-rooms-two.vercel.app/)**
 
 ---
 
@@ -93,7 +93,7 @@ User votes → Server Action → INSERT into votes table
 
 ---
 
-## Anti-Abuse Mechanisms (FR-8)
+## Anti-Abuse Mechanisms
 
 ### Mechanism A — Client-Side Vote Lock (localStorage)
 
@@ -174,7 +174,3 @@ src/
 ```
 
 ---
-
-## License
-
-MIT
